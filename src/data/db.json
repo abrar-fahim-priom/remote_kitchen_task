@@ -1,0 +1,74 @@
+{
+  "foods": [
+    {
+      "id": "1",
+      "name": "Pizza",
+      "description": "A savory dish consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and various other ingredients.",
+      "price": 12.99,
+      "image": "pizza.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Burger 10",
+      "description": "A sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun.",
+      "price": 8.49,
+      "image": "burger.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Sushi",
+      "description": "A Japanese dish consisting of small balls or rolls of vinegar-flavored cold cooked rice served with a garnish of raw fish, vegetables, or egg.",
+      "price": 15.99,
+      "image": "sushi.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Pasta",
+      "description": "A staple food of Italian cuisine, made from unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or various shapes. huhuhuhu",
+      "price": 10.99,
+      "image": "pasta.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Salad",
+      "description": "A dish consisting of a mixture of small pieces of food, usually vegetables or fruit.",
+      "price": 6.99,
+      "image": "salad.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Tacos",
+      "description": "A traditional Mexican dish consisting of a corn or wheat tortilla folded or rolled around a filling, typically meat, beans, or vegetables.",
+      "price": 9.99,
+      "image": "tacos.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Steak",
+      "description": "A slice of meat cut from the fleshy part of an animal or large fish.",
+      "price": 19.99,
+      "image": "steak.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Fries",
+      "description": "A type of food made from deep-frying potatoes.",
+      "price": 4.99,
+      "image": "fries.jpg"
+    },
+    {
+      "id": "4547",
+      "name": "Steak",
+      "description": "A slice of meat cut from the fleshy part of an animal or large fish.acds",
+      "price": 19.99,
+      "image": "steak.jpg"
+    },
+    {
+      "id": "976",
+      "name": "Salad",
+      "description": "A dish consisting of a mixture of small pieces of food, usually vegetables or fruit.",
+      "price": 6.99,
+      "image": "salad.jpg"
+    }
+  ]
+}
